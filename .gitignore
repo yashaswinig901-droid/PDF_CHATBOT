@@ -1,0 +1,16 @@
+# Environment
+.env
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Build
+build/
+dist/
+
+# FAISS indexes
+faiss_index/
+faiss_index_*/
+utils/faiss_index_*/

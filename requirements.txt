@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchainhub
+ollama
+groq
+faiss-cpu
+pypdf
+unstructured
+tqdm
+python-dotenv
+streamlit
